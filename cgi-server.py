@@ -2,6 +2,7 @@
 
 # Copyright Nick Zarczynski. 
 # https://pointlessprogramming.wordpress.com/2011/02/13/python-cgi-tutorial-2/
+# Retreived 2016-01-19
 # Please don't sue me Nick
 
 
